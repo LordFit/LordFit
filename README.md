@@ -16,7 +16,6 @@
 
 Hi, I'm Syafitra H.<br /><br />I'm a beginner developer, learning PHP and other programming languages. I am interested in Minecraft stuffs. also im making a video in my youtube channel.
 
-- 🌱 Currently learning many things
 - 🔭 Currently working on [VarNetwork](https://www.varnetwork.xyz/)
 - 📫 Reach me at [Instagram](https://instagram.com/LordFitra)
 
