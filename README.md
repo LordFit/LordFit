@@ -1,23 +1,31 @@
-<h1 align="center">Hi 👋, I'm Syafitra Fadil Arasya Hutabarat</h1>
-<h3 align="center">A newbie developer from Indonesia</h3>
+---
+
+## Hello there! <img src="https://media.giphy.com/media/tEuZQV7AGrrv035n3c/giphy.gif" width="30px">
+
+<a href="https://instagram.com/LordFitra">
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="LordFitra Instagram" width="25" />
+</a>
+<a href="https://discord.gg/BPr2uA4Nuu">
+  <img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="VarNetwork Discord" height="25" width="35" />
+</a>
+<a href="https://youtube.com/@LordFitra">
+  <img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" alt="LordFitra Instagram" height="25" width="35" />
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordfit&label=Profile%20views&color=0e75b6&style=flat" alt="lordfit" /> </p>
 
-- 🔭 I’m currently working on **VarNetwork**
+Hi, I'm Syafitra H.<br /><br />I'm a beginner developer, learning PHP and other programming languages. I am interested in Minecraft stuffs. also im making a video in my youtube channel.
 
-- 🌱 I’m currently learning **HTML, PHP, CSS, JSON**
+- 🌱 Currently learning many things
+- 🔭 Currently working on [VarNetwork](https://www.varnetwork.xyz/)
+- 📫 Reach me at [Instagram](https://instagram.com/LordFitra)
 
-- 📫 How to reach me **safitrafadil13@gmail.com**
+</div>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/lordfitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lordfitra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lordfitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lordfitra" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordfit&show_icons=true&locale=en&layout=compact" alt="lordfit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lordfit&show_icons=true&locale=en" alt="lordfit" /></p>
+<div align="center">
+<img src="https://wallpaperaccess.com/full/6273506.gif" alt="Pixel Gif" wifth="1080">
+</div>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
