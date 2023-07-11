@@ -6,10 +6,10 @@
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="LordFitra Instagram" width="25" />
 </a>
 <a href="https://discord.gg/BPr2uA4Nuu">
-  <img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="VarNetwork Discord" height="25" width="35" />
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VarNetwork Discord" height="30" width="45" />
 </a>
 <a href="https://youtube.com/@LordFitra">
-  <img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" alt="LordFitra Instagram" height="25" width="35" />
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="LordFitra Instagram" height="30" width="45" />
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordfit&label=Profile%20views&color=0e75b6&style=flat" alt="lordfit" /> </p>
